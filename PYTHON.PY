@@ -1,4 +1,4 @@
 z = input("Name: ")
-
+Weight = input("Weight, ")
 print(f"Hello, get out of this python script, {z}")
-
+print(f"Your weight is {Weight} ")
