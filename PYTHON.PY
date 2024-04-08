@@ -9,3 +9,4 @@ hello()
 
 
 print(f"Your weight is {Weight} ")
+print("You are fat.")
