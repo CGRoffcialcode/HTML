@@ -1,5 +1,6 @@
+z = "ckjhdvbhksfdj;dfccsdds"
 
-
-b = "chipic"
+b = "chipzic"
 a = 0
 print(b)
+print(z)
