@@ -1,6 +1,4 @@
-z = "ckjhdvbhksfdj;dfccsddkjhdvbhksfdj;dfccsddkjhdvbhksfdj;dfccsddkjhdvbhksfdj;dfccsddkjhdvbhksfdj;dfccsddkjhdvbhksfdj;dfccsddkjhdvbhksfdj;dfccsddkjhdvbhksfdj;dfccsddkjhdvbhksfdj;dfccsddkjhdvbhksfdj;dfccsddkjhdvbhksfdj;dfccsddkjhdvbhksfdj;dfccsddkjhdvbhksfdj;dfccsddkjhdvbhksfdj;dfccsddkjhdvbhksfdj;dfccsddkjhdvbhksfdj;dfccsddkjhdvbhksfdj;dfccsddkjhdvbhksfdj;dfccsddkjhdvbhksfdj;dfccsddkjhdvbhksfdj;dfccsddkjhdvbhksfdj;dfccsddkjhdvbhksfdj;dfccsddkjhdvbhksfdj;dfccsddkjhdvbhksfdj;dfccsddkjhdvbhksfdj;dfccsddkjhdvbhksfdj;dfccsddkjhdvbhksfdj;dfccsddkjhdvbhksfdj;dfccsddkjhdvbhksfdj;dfccsddkjhdvbhksfdj;dfccsddkjhdvbhksfdj;dfccsddkjhdvbhksfdj;dfccsddkjhdvbhksfdj;dfccsddkjhdvbhksfdj;dfccsddkjhdvbhksfdj;dfccsddkjhdvbhksfdj;dfccsddkjhdvbhksfdj;dfccsddkjhdvbhksfdj;dfccsddkjhdvbhksfdj;dfccsddkjhdvbhksfdj;dfccsddkjhdvbhksfdj;dfccsddkjhdvbhksfdj;dfccsddkjhdvbhksfdj;dfccsddkjhdvbhksfdj;dfccsddkjhdvbhksfdj;dfccsddkjhdvbhksfdj;dfccsddkjhdvbhksfdj;dfccsddkjhdvbhksfdj;dfccsddkjhdvbhksfdj;dfccsdds"
+z = input("Name: ")
 
-b = "chipzic"
-a = 0
-print(b)
-print(z)
+print(f"Hello, get out of this python script, {z}")
+
